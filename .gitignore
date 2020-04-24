@@ -12,8 +12,6 @@ test.js
 *.o
 *.so
 
-*.so
-
 # Packages #
 ############
 # it's better to unpack these files and commit the raw source

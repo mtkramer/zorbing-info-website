@@ -1,7 +1,7 @@
 # Don't track content of these folders and files
 node_modules/
 /test.js
-
+*.code-workspace
 
 # Compiled source #
 ###################

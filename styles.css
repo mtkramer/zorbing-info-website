@@ -22,6 +22,10 @@ img, iframe {
     box-shadow: 2px 2px 3px #000;
 }
 
+a {
+    text-shadow: none;
+}
+
 .wide {
     width: 96%;
     height: default;

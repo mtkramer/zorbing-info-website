@@ -1,7 +1,7 @@
 # Don't track content of these folders and files
 node_modules/
 /test.js
-/html-me-something.code-workspace
+/zorbing-info-website.code-workspace
 
 # Compiled source #
 ###################

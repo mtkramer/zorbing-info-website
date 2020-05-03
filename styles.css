@@ -11,6 +11,11 @@ body {
     text-shadow: 2px 2px 3px #000000;
 }
 
+h1{
+    font-size: 200%;
+    padding-top: 1em;
+}
+
 p {
     line-height: 1em;
 }
